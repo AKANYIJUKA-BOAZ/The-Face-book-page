@@ -1,0 +1,20 @@
+
+*{margin:10px; padding:0px;box-sizing:border-box;}
+#image
+{
+width:90%; height:100vh; display:flex; justify-content:center; align-items:center;
+}
+h1{color:red; font-family:arial black;}
+#name img
+{position:absolute; z-index:1; height:380px; widtht:400px; object-fit:cover;}
+
+#image img  
+{height:35%; width:15%; border-radius:50%; border:6px solid #fff; position:absolute; z-index:2; margin-right:100px; object-fit:cover; margin-top:100px}
+h2{margin:1px; padding:2px}
+#abert{float:left; width:45%;}
+#amos img
+{float:right; width:45%; margin:0 auto;}
+#sonia
+{color:purple;}
+#ug
+{color:green;}
